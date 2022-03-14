@@ -6,8 +6,6 @@
 
 ![PayamFars GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PayamFars&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamFars&theme=codeSTACKr&layout=compact)](#)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PayamFars&theme=radical)](#)
 
 
