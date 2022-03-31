@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![PayamFars GitHub stats](https://github-readme-stats.vercel.app/api?username=PayamFars&show_icons=true&theme=vue-dark&count_private=true)
+![PayamFars GitHub stats](https://github-readme-stats.vercel.app/api?username=PayamFars&show_icons=true&theme=radical&count_private=true)
 
 ![PayamFars GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PayamFars&theme=radical&count_private=true)
 
